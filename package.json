@@ -1,0 +1,22 @@
+{
+  "name": "dcmodbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bakaLucy.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Lucy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "table": "^6.7.1",
+    "wio.db": "^4.0.21"
+  }
+}

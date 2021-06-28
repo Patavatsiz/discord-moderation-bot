@@ -1,0 +1,63 @@
+{
+  "sunucuID": "SUNUCUID",
+  "serverTag": "TAG",
+  "serverTag2": "TAG2",
+  "yasakTaglar": [
+    "YASAKTAG",
+    ", Koyarak coğaltabilirsin"
+  ],
+  
+  "roller": { 
+
+      "banYetkilileri": [
+        "",
+        ""
+      ],
+      "jailYetkilileri": [
+        "",
+        ""
+      ],
+      "muteYetkilileri": [
+        "",
+        ""
+      ],
+      "rolVermeYetkilisi": [
+        "",
+        ""
+      ],
+        "enAltYetkiliRolü": "",
+
+        "ustYetkiliRolleri": [
+          "",
+          "",
+          "",
+          ""
+        ],
+
+  "jailRolü": "",
+  "yasaklıTagRolü": "",
+  "muteRolü": "",
+  "vmuteRolü": "",
+
+  "kayıtsızRolü": "",
+  "şüpheliRolü": "",
+
+  "katildiRolu": "",
+  "boosterRolü": ""
+  },
+
+  "kanallar": {
+  "izinliKanallar": [
+    "KOMUTKULLANILABILECEKKANALLAR",
+    ""
+  ],
+  "messageLogChannel": "MESAJLOGKANALI",
+  "toplantiOdasi": "TOPLANTIODASI"
+  },
+
+  "emojiler": {
+    "yes": "<a:787784830305697792:844929185415430164> BUNUN GIBI EMOJI ID",
+    "no": "<a:787784831101829171:844929186124267563>"
+  }
+  
+}
