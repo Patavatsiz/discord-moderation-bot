@@ -9,6 +9,6 @@
   <li><p>Botu başlatmak için; Consolu açın ardından <code>npm init -y</code>, <code>npm install</code> komutlarını sırasıyla yazın ve modüllerin kurulmasını bekleyin. Modüller kurulduktan sonra <code>node .</code> yazarak botu başlatabilirsiniz. Botun developer sayfasındaki intentlerini açmayı unutmayın yoksa çalışmaz!</p></li>
 </ul>
 
-## ILETISIM
+## ILETISIM VE YARDIM
 
-<p><a href="https://discord.com/invite/serendia">Serendia Squad</a> | Sorularınız için <a href="https://discord.com/users/345892697955106818">bana</a> ulaşabilirsiniz.</p>
+<p>Sorularınız için <a href="https://discord.com/invite/serendia">Serendia Squad</a>'a gelebilir veya <a href="https://discord.com/users/345892697955106818">bana</a> ulaşabilirsiniz.</p>
