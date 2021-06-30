@@ -11,4 +11,4 @@
 
 ## ILETISIM VE YARDIM
 
-<p>Sorularınız için <a href="https://discord.com/invite/serendia">Serendia Squad</a>'a gelebilir veya <a href="https://discord.com/users/345892697955106818">bana</a> ulaşabilirsiniz.</p>
+<p>Sorularınız için <a href="https://discord.com/invite/serendia">Serendia Squad</a>'a gelebilir veya discord üzerinden <a href="https://discord.com/users/345892697955106818">bana</a> ulaşabilirsiniz.</p>
